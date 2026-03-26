@@ -1,0 +1,64 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ProyectoUWPenBlanco"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    x:Class="ProyectoUWPenBlanco.MainPage"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="690"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.RowSpan="2" Margin="0,5,0,0">
+
+            <TextBlock TextWrapping="Wrap" Text="Atributo Vida" FontWeight="Bold" Margin="5,0,0,0"/>
+            <Slider x:ConnectionId='3' Margin="10,0,10,0"                           />
+            <TextBlock TextWrapping="Wrap" Text="Atributo Energía" FontWeight="Bold" Margin="5,0,0,0"/>
+            <Slider x:ConnectionId='4' Margin="10,0,10,0"                              />
+            <TextBlock TextWrapping="Wrap" Text="Habilidades" FontWeight="Bold" Margin="5,0,0,0"/>
+            <Button x:ConnectionId='5' Content="Ataque Fuerte" HorizontalAlignment="Stretch" Margin="5,5,5,5" Height="30"                             />
+            <Button x:ConnectionId='6' Content="Ataque Flojo" HorizontalAlignment="Stretch" Margin="5,5,5,5" Height="30"                            />
+            <Button x:ConnectionId='7' Content="Defensa" HorizontalAlignment="Stretch" Margin="5,5,5,5" Height="30"                        />
+            <Button x:ConnectionId='8' Content="Descansar" HorizontalAlignment="Stretch" Margin="5,5,5,5" Height="30"                          />
+            <TextBlock TextWrapping="Wrap" Text="Estados" FontWeight="Bold" Margin="5,0,0,0"/>
+            <CheckBox x:ConnectionId='9' Content="Animacción Iddle" Margin="5,0,0,0" HorizontalAlignment="Stretch"                                                   />
+            <CheckBox x:ConnectionId='10' Content="Cansado" Margin="5,0,0,0"                                                       />
+            <CheckBox x:ConnectionId='11' Content="Herido" Margin="5,0,0,0"                                                     />
+            <CheckBox x:ConnectionId='12' Content="Escudo" Margin="5,0,0,0"                                                     />
+            <TextBlock TextWrapping="Wrap" Text="Interfaz Gráfica" FontWeight="Bold" Margin="5,0,0,0"/>
+            <CheckBox x:ConnectionId='13' Content="Fondo" Margin="5,0,0,0"                                          />
+            <CheckBox x:ConnectionId='14' Content="Fila Vida" Margin="5,0,0,0"                                                />
+            <CheckBox x:ConnectionId='15' Content="Fila Energía" Margin="5,0,0,0"                                                      />
+            <CheckBox x:ConnectionId='16' Content="Poción Vida" Margin="5,0,0,0"                                                    />
+            <CheckBox x:ConnectionId='17' Content="Poción Energía" Margin="5,0,0,0"                                                          />
+            <CheckBox x:ConnectionId='18' Content="Nombre" Margin="5,0,0,0"                                                          />
+            <TextBlock TextWrapping="Wrap" Text="Tamaño" FontWeight="Bold"/>
+            <Slider x:ConnectionId='19' x:Name="slTamano"                              Value="100"/>
+        </StackPanel>
+        <StackPanel Margin="0,675,0,0" Grid.RowSpan="2">
+            <TextBlock TextWrapping="Wrap" Text="" FontWeight="Bold"/>
+        </StackPanel>
+        
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Height="114" Margin="345,0,0,0" TextWrapping="Wrap" Text="Este es el ultra cutre visor de Controles de Usuario Pokemon 2025 de IPO 2. Debéis incluir en esta celda del Grid (extendiéndose en todo el ancho y largo de la celda) vuestro control de usuario pokemon, que importe la interfaz iPokemon.cs. Para probar el comportamiento, los eventos asociados a los Widgets de la izquierda deben hacer llamadas a las funciones de la interfaz iPokemon de vuestro pokemon." VerticalAlignment="Center" Width="490"/>
+
+        <local:TorchicCGM x:ConnectionId='2'
+            x:Name="miPokemon"
+            Grid.Column="1"
+            Grid.Row="0"
+            Grid.RowSpan="2"
+            HorizontalAlignment="Stretch"
+            VerticalAlignment="Stretch"/>
+
+
+
+    </Grid>
+</Page>
+

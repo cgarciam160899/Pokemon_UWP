@@ -1,0 +1,151 @@
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\App.xbf
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\GolbatRHL.xbf
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\MainPage.xbf
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.xr.xml
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.exe
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.pdb
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\resources.pri
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\AppxManifest.xml
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\Core\ProyectoUWPenBlanco.exe
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.build.appxrecipe
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\System.Runtime.dll
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.csproj.AssemblyReference.cache
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.g.i.cs
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.g.cs
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\GolbatRHL.g.i.cs
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\GolbatRHL.g.cs
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.g.cs
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.xaml
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\GolbatRHL.xaml
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.xaml
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.xbf
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\GolbatRHL.xbf
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.xbf
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.csproj.CoreCompileInputs.cache
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\Proyecto.2603C58A.Up2Date
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.exe
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.pdb
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\priconfig.xml
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\resources.resfiles
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\pri.resfiles
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\qualifiers.txt
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Ramon.HLucas\source\repos\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\App.xbf
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\MainPage.xbf
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.xr.xml
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.exe
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.pdb
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\resources.pri
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\AppxManifest.xml
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\Core\ProyectoUWPenBlanco.exe
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.build.appxrecipe
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\System.Runtime.dll
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.csproj.AssemblyReference.cache
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.g.i.cs
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.g.cs
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.g.cs
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.xaml
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.xaml
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.xbf
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.xbf
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.csproj.CoreCompileInputs.cache
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\Proyecto.2603C58A.Up2Date
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.exe
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.pdb
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\priconfig.xml
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\resources.resfiles
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\pri.resfiles
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\qualifiers.txt
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Ramon.HLucas\Downloads\ProyectoUWPenBlanco (3)\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\App.xbf
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\MainPage.xbf
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.xr.xml
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.exe
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.pdb
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\resources.pri
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\AppxManifest.xml
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\Core\ProyectoUWPenBlanco.exe
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\ProyectoUWPenBlanco.build.appxrecipe
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\System.Runtime.dll
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.g.i.cs
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.g.cs
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.g.cs
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.xaml
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.xaml
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\App.xbf
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MainPage.xbf
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\Proyecto.2603C58A.Up2Date
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.exe
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProyectoUWPenBlanco.pdb
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\priconfig.xml
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\resources.resfiles
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\pri.resfiles
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\qualifiers.txt
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638773395680000000.json
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\TorchicCGM.xbf
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\TorchicCGM.g.i.cs
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\TorchicCGM.g.cs
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\TorchicCGM.xaml
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\TorchicCGM.xbf
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\bin\x86\Debug\BlankPage1.xbf
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\BlankPage1.g.i.cs
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\BlankPage1.g.cs
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\BlankPage1.xaml
+C:\Users\Carlos\Desktop\ProyectoUWP-TesterIPOkemon\ProyectoUWPenBlanco\ProyectoUWPenBlanco\obj\x86\Debug\BlankPage1.xbf
